@@ -1,15 +1,6 @@
 import { DataTypes } from "sequelize";
-import conn from "../config/conn";
+import conn from "../config/conn.js";
 
-const empresaModel = conn.define(
-  "empresa",
-  {//Colunas da tabela empresa
-    
-  },
-  {//Opções para tabela empresa
-    timestamps: false,
-    tableName: "empresa",
-  }
-);
+const empresaModel = conn.define("empresa", {});
 
 export default empresaModel;
