@@ -1,3 +1,8 @@
 Backend
 Sequelize: https://obsidian-canopy-a33.notion.site/Sequelize-ORM-138b957e123980ff8d05e873da676d73
 JWT: https://obsidian-canopy-a33.notion.site/JWT-JSONWEBTOKEN-138b957e1239808ab67aec505aac0ccb
+
+Frontend
+Styled-Components: https://uneven-snowshoe-07b.notion.site/Styled-Components-145b125b6e8080fa8000e431641d1a49
+JWT no frontend: https://uneven-snowshoe-07b.notion.site/JWT-no-Frontend-145b125b6e8080c7a49fedbe787fdf51
+React-Router-Dom: https://uneven-snowshoe-07b.notion.site/React-Router-Dom-Exemplo-145b125b6e80804db798c6495bdd042a
